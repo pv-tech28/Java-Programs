@@ -20,6 +20,7 @@ public class FrequencyOfElementInArray {
                 freq++;
             }
         }
-        System.out.println("Frequency of the element is: "+ freq);
+        System.out.println("Frequency of" + e +  "is: "+ freq);
     }
 }
+
